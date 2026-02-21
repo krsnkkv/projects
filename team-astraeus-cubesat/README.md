@@ -17,6 +17,7 @@ Team Astraeus is participating in the **Satellite Design Competition (SDC)**, de
 ### Software Contribution
 - Contributed to software planning and development for the CubeSat prototype
 - Supported onboard / embedded software development work (Arduino-based where applicable)
+- In charge of payload subsystem of CubeSat
 
 ## Tech Stack
 - **Hardware/Embedded:** Arduino
@@ -24,9 +25,7 @@ Team Astraeus is participating in the **Satellite Design Competition (SDC)**, de
 - **Methods:** project planning, documentation, milestone tracking
 
 ## Media / Evidence
-Add links here (you can upload to this folder later):
-- `media/` (photos, diagrams, screenshots)
-- `docs/` (public design docs, posters, summary slides)
+[Payload Subsystem Research Consolidation](./Payload%20Subsystem.pdf)
 
 ## Notes
 If any parts of the work are under team/competition confidentiality, only public-safe materials should be uploaded.
