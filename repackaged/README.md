@@ -76,3 +76,6 @@ Buyers would:
 - Real-time listing updates
 - Enhanced seller verification system
 - Improved UI/UX design
+---
+
+Please note that while this was a software design project involving multiple areas of software engineering and agile practices, the data cannot be logged into Git due to University regulations.
