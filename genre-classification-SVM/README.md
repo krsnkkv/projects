@@ -66,7 +66,7 @@ Outputs saved to `outputs/`: cached features, trained model, confusion matrix.
 | Reggae | 0.51 |
 | Rock | 0.51 |
 
-![Confusion Matrix](outputs/ConfusionMatrix.png)
+![Confusion Matrix](outputs\confusion_matrix.png)
 
 ---
 
