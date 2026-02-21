@@ -57,5 +57,4 @@ The platform aimed to create a safe, engaging digital space that empowers women 
 - Version Control: Git
 
 ---
-
-## Architecture
+Please note that while the project has been done on GitLab, due to University policies, it is not permitted to upload any code documents here.
